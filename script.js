@@ -110,6 +110,6 @@ function draw(){
 	
 	stroke(255);
 	fill(255);
-	text("Happy Birthday\nTo You,SaiShree",width/2,height/2);
+	text("Happy Birthday\nTo You,",width/2,height/2);
 	
 }
